@@ -1,5 +1,5 @@
-def findSep(self):
-    text = self.text
+def findSep(text):
+
     data = list(text)
     found="-1"
     for x in data:
